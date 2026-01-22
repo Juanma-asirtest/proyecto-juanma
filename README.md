@@ -36,13 +36,13 @@ echo "Hola mundo"
 
 ### LISTAS
 
-####LISTAS DESORDENADAS
+#### LISTAS DESORDENADAS
 * Item 1
 * Item 2
 * Item 3
 * Item 4
 
-####LISTAS DESORDENADAS ANIDADAS
+#### LISTAS DESORDENADAS ANIDADAS
 * Item 1
   * Item 1.1
   * Item 1.2
@@ -51,13 +51,13 @@ echo "Hola mundo"
 * Item 3
 * Item 4
 
-####LISTAS ORDENADAS
+#### LISTAS ORDENADAS
 1. Item 1
 2. Item 2
 3. Item 3
 4. Item 4
 
-####LISTAS ORDENADAS ANIDADAS
+#### LISTAS ORDENADAS ANIDADAS
 1. Item 1
   1.1 Item 1.1
   1.2 Item 1.2
@@ -66,7 +66,7 @@ echo "Hola mundo"
 3. Item 3
 4. Item 4
 
-###TABLAS
+### TABLAS
 | Encabezado 1 | Encabezado 2 | Encabezado 3
 | --- | --- | --- | ---
 | Fila 1.1 | Fila 1.2 | Fila 1.3
@@ -74,17 +74,17 @@ echo "Hola mundo"
 | Fila 3.1 | Fila 3.2 | Fila 3.3
 
 
-###FORZAR UN SALTO DE LÍNEA
+### FORZAR UN SALTO DE LÍNEA
 Por ejemplo, en esta frase
 hemos forzado un salto de línea.
 
 
-###CITAR TEXTOS
+### CITAR TEXTOS
 
 Este texto no es una cita.
 > Este texto daría como resultado una cita.
 
-###COMENTARIOS
+### COMENTARIOS
 Párrafo 1.
 
 <!- Este texto es un comentario y no será renderizado -->
